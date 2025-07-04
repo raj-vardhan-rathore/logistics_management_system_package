@@ -30,7 +30,7 @@ The **Logistics Management System** is a fully responsive, browser-based applica
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/logistics-management-system.git
+   git clone https://github.com/raj-vardhan-rathore/logistics-management-system.git
    cd logistics-management-system
    ```
 
