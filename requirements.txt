@@ -1,0 +1,13 @@
+# Requirements
+
+This project is front-end only and does not require installation of any packages.
+
+To run the project:
+
+- Use any modern web browser (Google Chrome, Firefox, Edge)
+- Optionally use the "Live Server" extension in VS Code for better dev experience
+
+Libraries used:
+- Bootstrap 5 (CDN)
+- Font Awesome (CDN)
+- jsPDF and jsPDF-AutoTable (CDN)
