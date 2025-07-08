@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/logistics_management_system.html" }
+  ]
+}
